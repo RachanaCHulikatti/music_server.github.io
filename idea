@@ -13,4 +13,20 @@ youtube-dl --extract-audio --audio-format mp3 <https://www.youtube.com/watch?v=e
  2016  ffmpeg -i In_The_End_Official_Video_-_Linkin_Park-eVTXPUF4Oz4_accompaniment(1).wav -acodec mp3 track01.mp3
  2017  ffmpeg -i In_The_End_Official_Video_-_Linkin_Park-eVTXPUF4Oz4_accompaniment.wav -acodec mp3 track01.mp3
 ########################################
+1000 songs- youtube-dl
+#########################################
+convert to mp3,wav format,audio file of removed vocal files and frequency graph for All and fft , square wave and extractting the freuenies 
+#########################################
+arduino c code for such freuencies in terms of  degrees in servo meter
+#########################################
+play for one song and make it for bolt iot module and connect to the wifi module and make it play by mobile.
+#########################################
+make this video and upload this in the youtube .
+
+
+
+
+
+
+
 
