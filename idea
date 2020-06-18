@@ -1,0 +1,16 @@
+Download the video from youtube by youtube-dl
+convert the video into mp3 by  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=eVTXPUF4Oz4
+https://www.remove-vocals.com/ - removing the vocal in the mp3 song to wav file
+converting wav to mp3 - 
+######################################
+youtube-dl --extract-audio --audio-format mp3 <https://www.youtube.com/watch?v=eVTXPUF4Oz4>
+ 2010  sudo apt-get install ffmpeg
+ 2011* sudo add-apt-repository ppa:kirillshkrogalev/ffmpeg-nex
+ 2012  sudo apt-get update
+ 2013  sudo apt-get install ffmpeg
+ 2014  ffmpeg -i track01.wav -acodec mp3 track01.mp3
+ 2015  ffmpeg -i In_The_End_Official_Video_-_Linkin_Park-eVTXPUF4Oz4_accompaniment(1).wav.part -acodec mp3 track01.mp3
+ 2016  ffmpeg -i In_The_End_Official_Video_-_Linkin_Park-eVTXPUF4Oz4_accompaniment(1).wav -acodec mp3 track01.mp3
+ 2017  ffmpeg -i In_The_End_Official_Video_-_Linkin_Park-eVTXPUF4Oz4_accompaniment.wav -acodec mp3 track01.mp3
+########################################
+
